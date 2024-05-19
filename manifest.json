@@ -6,7 +6,7 @@
     },
     "manifest_version": 2,
     "name": "Pinned ChatGPT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Go to the pinned ChatGPT tab. If it doesn't exist, it's created.",
     "icons": {
         "48": "icons/ChatGPT-48.png",
