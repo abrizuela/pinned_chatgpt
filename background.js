@@ -4,7 +4,7 @@ let chatGptTabId;
 let chatGptWinId;
 let previousTab;
 let previousWin;
-const BASE_URL = "chat.openai.com";
+const BASE_URL = "chatgpt.com";
 
 function queryTab() {
     return browser.tabs.query({ url: `*://${BASE_URL}/*`, currentWindow: true });
